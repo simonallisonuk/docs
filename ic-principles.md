@@ -257,19 +257,20 @@ dedicated to learning.
 
 It usually goes like this: I'll have an existing toolchain that works pretty well, but has a glaring issue or downside. I'll
 hear about a new tool that can solve this issue, and after procrastinating for some time I'll finally be annoyed enough with 
-the existing issues to try the new tool. Usually I'll realize that the new tool is better and I'll permanently switch to using it.
+the existing issues to try the new tool. Usually I'll realize that the new tool is better suited to my scenario and I'll 
+permanently switch to using it.
 
 Here are a few examples:
 
 * **Power BI** - prior to learning Power BI, I had been building reports at work using things like JS and D3, and hosting them on my own server. 
-The analyses were Ok, but I was spending too much time on things like server maintenance, authentication, and report look-and-feel. 
-I had heard that Power BI was getting popular within the company and I decided to give it a try. I'm glad I did - since then I've been using it 
-successfully for our team's analyses.
+The analyses were going well, but I was spending too much time on things like server maintenance, authentication, and report look-and-feel. 
+I just wanted to focus on the analyses instead. I had heard that Power BI was getting popular within the company and I decided to give it a try. 
+I'm glad I did - since then I've been using it successfully for our team's analyses.
 * **Affinity Designer** - I like to make comics. For a while I used a raster-based tool for drawing the Threddy comics. The problem, though, was
-that if I wanted to scale the characters larger or smaller, the raster drawings wouldn't scale well. I had heard that a vector-based approach
-might fix this. During a long flight to China I decided to practice using Affinity Designer, which is a popular vector drawing tool. 
-By the end of the flight I had learned enough about the software to be able to use it for the comics. And ever since then I've been using _only_ 
-Affinity Designer for Threddy comics.
+that if I wanted to scale the characters larger or smaller, the raster drawings wouldn't scale well and I would need to redraw them. I had heard 
+that a vector-based approach might fix this. During a long flight to China I decided to practice using Affinity Designer, which is a popular 
+vector drawing tool. By the end of the flight I had learned enough about the software to be able to use it for the comics. And ever since 
+then I've been using _only_ Affinity Designer for Threddy comics.
 
 If you find yourself thinking "if I learn tool XYZ it will be good for my project or career", you're probably right.
 Spend that time on learning and you won't regret it.
