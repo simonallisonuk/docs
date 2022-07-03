@@ -246,14 +246,45 @@ team? Can you ask their opinion? You might learn things that sway you in either 
 
 
 - - - -
+# Principle – Know your tools
+
+Software development requires a lot of tools - IDEs, programming languages, version control, graphical tools, etc. 
+All of these tools assist you in solving your scenarios and problems. 
+
+Here's the trick though - if you don't know how your tools work, you'll spend too much time fighting
+with the tools themselves, instead of solving your customer problems. That's why I like to spend a small % of my time 
+dedicated to learning. 
+
+It usually goes like this: I'll have an existing toolchain that works pretty well, but has a glaring issue or downside. I'll
+hear about a new tool that can solve this issue, and after procrastinating for some time I'll finally be annoyed enough with 
+the existing issues to try the new tool. Usually I'll realize that the new tool is better and I'll permanently switch to using it.
+
+Here are a few examples:
+
+* **Power BI** - prior to learning Power BI, I had been building reports at work using things like JS and D3, and hosting them on my own server. 
+The analyses were Ok, but I was spending too much time on things like server maintenance, authentication, and report look-and-feel. 
+I had heard that Power BI was getting popular within the company and I decided to give it a try. I'm glad I did - since then I've been using it 
+successfully for our team's analyses.
+* **Affinity Designer** - I like to make comics. For a while I used a raster-based tool for drawing the Threddy comics. The problem, though, was
+that if I wanted to scale the characters larger or smaller, the raster drawings wouldn't scale well. I had heard that a vector-based approach
+might fix this. During a long flight to China I decided to practice using Affinity Designer, which is a popular vector drawing tool. 
+By the end of the flight I had learned enough about the software to be able to use it for the comics. And ever since then I've been using _only_ 
+Affinity Designer for Threddy comics.
+
+If you find yourself thinking "if I learn tool XYZ it will be good for my project or career", you're probably right.
+Spend that time on learning and you won't regret it.
+
+
+- - - -
 # Principle – Use the right tool for the job
 
-I feel like this is a common principle in software development, but I wanted to call it out anyways. The idea here is that when you are 
-faced with a task, pick the tool that is best suited to the job, rather than a tool you are currently comfortable with.
+Also on the subject of tools - when you are faced with a task, pick the tool that is best suited to the job, 
+rather than a tool you are currently comfortable with.
 
 Early in my career I was enamored with C++. I wanted to focus my entire career on it. I learned the ins and outs of the language, watched 
 videos on it, and practiced the language as much as possible. But I quickly realized that this language was not well suited for many 
 problems. It honestly was a difficult lesson for me, but once I learned to focus on picking toolsets based on task, it made problem solving easier.
+
 
 
 - - - -
