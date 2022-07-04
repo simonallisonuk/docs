@@ -255,10 +255,10 @@ Here's the trick though - if you don't know how your tools work, you'll spend to
 with the tools themselves, instead of solving your customer problems. That's why I like to spend a small % of my time 
 dedicated to learning. 
 
-When do I decide to spend time learning a new tool? In some cases, the team or organization
-has mandated use of a tool (build system, programming language, etc), and I have no choice but to learn it. In other cases, 
-I'll be using a toolset on my own, and I'll notice that it has a downside that may be fixed by migrating to some other
-tools. In either case I'll pause what I'm working on and spend time learning.
+When do I decide to spend time learning? In some cases, the team or organization
+has mandated use of a tool (build system, programming language, etc.), and I have no choice but to learn it. In other cases, 
+I'll be using a toolset on my own, and I'll notice that it has a downside that may be fixed by migrating to something else. 
+In either case I'll pause what I'm working on and shift my focus to learning.
 
 Here are a few examples:
 
