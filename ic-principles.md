@@ -255,7 +255,8 @@ Here's the trick though - if you don't know how your tools work, you'll spend to
 with the tools themselves, instead of solving your customer problems. That's why I like to spend a small % of my time 
 dedicated to learning. 
 
-It usually goes like this: I'll have an existing toolchain that works pretty well, but has a glaring issue or downside. I'll
+When do I decide to spend time learning a new tool? It usually goes like this: 
+I'll have an existing toolchain that works pretty well, but has an issue or downside. I'll
 hear about a new tool that can solve this issue, and after procrastinating for some time I'll finally be annoyed enough with 
 the existing issues to try the new tool. Usually I'll realize that the new tool is better suited to my scenario and I'll 
 permanently switch to using it.
