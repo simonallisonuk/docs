@@ -255,11 +255,10 @@ Here's the trick though - if you don't know how your tools work, you'll spend to
 with the tools themselves, instead of solving your customer problems. That's why I like to spend a small % of my time 
 dedicated to learning. 
 
-When do I decide to spend time learning a new tool? It usually goes like this: 
-I'll have an existing toolchain that works pretty well, but has an issue or downside. I'll
-hear about a new tool that can solve this issue, and after procrastinating for some time I'll finally be annoyed enough with 
-the existing issues to try the new tool. Usually I'll realize that the new tool is better suited to my scenario and I'll 
-permanently switch to using it.
+When do I decide to spend time learning a new tool? In some cases, the team or organization
+has mandated use of a tool (build system, programming language, etc), and I have no choice but to learn it. In other cases, 
+I'll be using a toolset on my own, and I'll notice that it has a downside that may be fixed by migrating to some other
+tools. In either case I'll pause what I'm working on and spend time learning.
 
 Here are a few examples:
 
@@ -275,6 +274,7 @@ then I've been using _only_ Affinity Designer for Threddy comics.
 
 If you find yourself thinking "if I learn tool XYZ it will be good for my project or career", you're probably right.
 Spend that time on learning and you won't regret it.
+
 
 
 - - - -
