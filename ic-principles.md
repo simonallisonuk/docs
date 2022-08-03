@@ -304,6 +304,16 @@ that success? Are you really working on the most impactful things? It’s import
 
 
 - - - -
+# Principle – You're not alone, find people in your shoes
+
+I sometimes fall into the trap of thinking "nobody else on earth is experiencing this thing that's happening to me." The reality is that there are usually *many* folks experiencing the same things. The trick is finding some of these folks and comparing notes.
+
+A recent example: my role at work shifted from software engineering tasks (coding, data analysis, etc.) to what I would consider "non-software engineering tasks" (recruiting, driving meetings, building consensus on process, etc). I was very engaged in these tasks, however I no longer felt like a Software Engineer, and I struggled to find a vocabulary to describe this new role I was in. Then one day I had a chat with someone and mentioned the situation, and discovered they were in the *exact same situation*. It was AMAZING to have someone to compare notes with and confide in. This discovery will probably result in us meeting periodically to compare notes and help each other.
+
+
+
+
+- - - -
 # Principle – Know when to log out
 
 Working hard is great, but it's equally important to know when to log out. Work/life balance is critical for maintaining a successful, 
