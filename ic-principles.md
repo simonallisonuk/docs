@@ -73,13 +73,22 @@ this is a signal that I might need to make a change in role or position.
 - - - -
 # Principle – You're not alone, find people in your shoes
 
+It's worthwhile to build up a network of peers in your company and industry. This network can help in various ways 
+– you can learn from each other, help each other through difficulties, collaborate on projects, share successes and failures, 
+provide job opportunities, etc.
+
 I sometimes fall into the trap of thinking "nobody else on earth is experiencing this thing that's happening to me." The reality is 
 that there are usually *many* folks experiencing the same things. The trick is finding some of these folks and comparing notes.
+
+How do you find folks? Social media is one way. Every social media platform is different, and my general advice is to pick the one that best fits 
+your personality and then be consistent with your engagement. Offline pursuits are also helpful here – both internal resource groups, as well 
+as external hobbies. Basically anything where you are spending time with others on a subject that you care about and enjoy. And the subject 
+doesn't really need to be work-related, it can be anything.
 
 A recent example: my role at work shifted from software engineering tasks (coding, data analysis, etc.) to what I would consider 
 "non-software engineering tasks" (recruiting, driving meetings, building consensus on process, etc). I was very engaged in these 
 tasks, however I no longer felt like a Software Engineer, and I struggled to find a vocabulary to describe this new role I was in. 
-Then one day I had a chat with someone and mentioned the situation, and discovered they were in the *exact same situation*. It was 
+Then one day I had a chat with someone in an adjacent org and mentioned the situation, and discovered they were in the *exact same situation*. It was 
 AMAZING to have someone to compare notes with and confide in. This discovery will probably result in us meeting periodically to compare 
 notes and help each other.
 
@@ -210,31 +219,7 @@ air and show it to folks (and apologize later if needed). It's like that saying 
 
 Use this sparingly and wisely. Weigh the risks/rewards, and if it makes sense to try it, go for it. There is higher risk here, but the reward is wonderful.
 
-- - - -
-# Principle – Network with peers
 
-The idea here is that, over time, you should build up a network of peers in your company and industry. This network can help in various ways 
-– you can learn from each other, help each other through difficulties, collaborate on projects, share successes and failures, etc.
-
-You might not think you need this – and I certainly didn't at the beginning of my career – but it's something you won't fully understand until 
-you try it. I spent most of my career heads-down working on projects, without spending any time interacting or connecting with others. Luckily within the
-past few years I joined Twitter and that has forever changed for the better. 😊
-
-How do you do this? Social media is one way. Every social media platform is different, and my general advice is to pick the one that best fits 
-your personality and then be consistent with your engagement. Offline pursuits are also helpful here – both internal resource groups, as well 
-as external hobbies. Basically anything where you are spending time with others on a subject that you care about and enjoy. And the subject 
-doesn't really need to be work-related, it can be anything.
-
-- - - -
-# Principle – Choose an organization carefully
-
-I try not to underestimate the importance of organization and management chain. Not all chains are created equal. And this is not a comment 
-on good or bad – it's just that my own personality is better suited to certain teams. Everyone is unique, and a team that is a great fit for 
-one person, might not be a great fit for another person. I've had situations where I was on the fence about a job offer, but the reputation of 
-the management chain was the tipping point in my accepting the offer (and it worked out well).
-
-How can you know about an organization before joining it? This is one situation where leaning on your network helps. Do you know anyone on the 
-team? Can you ask their opinion? You might learn things that sway you in either direction.
 
 
 - - - -
