@@ -211,9 +211,6 @@ A few times during my career I've found myself in a position where there was a s
 (and I had the skill and power to change it). During these times, I chose to trust my instincts and attempt to make a change and follow the 
 path I thought was correct. So far, these have been good decisions.
 
-This reminds me a bit of the first principle – caring deeply about a subject. If I care about a subject, and I know the most about it, 
-and I'm being held accountable for it, I feel I have the right (and obligation!) to make changes in that area that will put it on the best path.
-
 I will often ask permission in these cases. But not always. Sometimes you need to put your head down, crank out a solution, then come up for
 air and show it to folks (and apologize later if needed). It's like that saying – it's easier to ask for forgiveness than to ask for permission. 😊
 
