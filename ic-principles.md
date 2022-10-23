@@ -1,6 +1,6 @@
 # IC Principles
 
-I’ve been an Individual Contributor (IC) for most of my 25-year career in software development. 
+I've been an Individual Contributor (IC) for most of my career in software development. 
 An IC is an employee who does not have direct reports and does not perform people management tasks. 
 This document describes some high-level principles that I've followed in my career as an IC. If you have any 
 questions, please email me (hello@threddy.dev) or find me on Twitter (https://twitter.com/ThreddyRex). Initially written Mar 2022. Updated May 2022, Jun 2022.
@@ -48,34 +48,29 @@ feel that it will increase your chances of success. You are probably correct.
 This doesn't mean that success is guaranteed. It also doesn't mean that there won't be hard work. But I feel that
 positioning yourself correctly is a key part of success.
 
-----
-# Principle – Be a subject matter expert
 
-I've always strived to be the go-to person on a particular subject. The subjects are usually technical in nature and what I would 
-consider "complex". I would pick a subject, learn as much as I can about it, and try to practice it with the goal of becoming an expert.
 
-In fact, I can trace my career based on the subjects I was learning at the time. My earliest subject was C++ - that was one of the first 
-languages that I used professionally. I read every book I could find on the subject, watched videos about it, etc.
 
-At Microsoft I’ve traveled through several subjects – first performance engineering, then network engineering, and most recently data 
-engineering and visualization. As I collect these subjects it makes me feel like I can be more valuable to the company. I love it 
-when someone emails or IMs me asking about a subject that I know a lot about.
+- - - -
+# Principle – Choose experiences that energize you
 
-How will you know what subjects to focus on? For me, I pick things that are fun, technical, complex, and something I feel I can provide unique value in.
+A common career question I hear is "where do you want to be in 5 years?"
 
-An alternate way to phrase this principle:
+I'll be honest - I struggle answering this question. I really have no idea "where I want to be".  However, I find it easier to identify 
+what types of activities and experiences keep me most engaged at work. Tasks where I often find myself "in the zone".
 
-* Pick a subject you care deeply about,
-* that would provide value to the business, 
-* learn all about it,
-* position yourself to work on it (potentially changing jobs),
-* and become known as the person who cares deeply about the subject.
+Given this, I reframe the original question as the following:
 
-On a related note, there is a similar saying that I like to live by:
+* _**Which experiences will energize you over the next 5 years?**_
 
-* _**The secret to success is showing up and giving a shit.**_
+This helps me decide what next steps I might want to take in my career. 
 
-Pick a subject, and then become known as the person that gives a shit about it.
+When I'm energized by my workload, I'm happier and more successful. This is a sign that I'm in
+a role that's right for me. The _opposite_ is also true - if I'm not feeling engaged or energized,
+this is a signal that I might need to make a change in role or position.
+
+
+
 
 
 ----
@@ -91,7 +86,7 @@ Don't worry, this hard work will pay off soon. You are preparing for your highli
 be delivering a high-value project, getting a promotion, or something else that is just plain awesome. All of that hard work 
 in the preparation years has now paid off!
 
-When I look back at my Microsoft career, of the 14+ years I've been here, I've had four major project-related highlights. And in between 
+When I look back at my Microsoft career, I've had four major project-related highlights. And in between 
 those I've had years where I was learning or otherwise positioning myself for an upcoming highlight.
 
 It's natural to have a mix of both. Not every year will be a highlight. But make sure you occasionally experience the highlights.
@@ -156,23 +151,7 @@ the plan. Writing a document and letting folks comment on it is a great way to g
 I urge everyone to create a few documents on topics they care about. You might be surprised at how useful these documents become.
 
 
-- - - -
-# Principle – Think of a career as a "collection of experiences"
 
-A common career question is "where do you want to be in 5 years?"
-
-I'll be honest - I struggle answering this question. I really have no idea "where I want to be".  However, I find it easy to identify 
-what types of activities and experiences keep me most engaged at work. Tasks where I often find myself "in the zone".
-
-Given this, I reframe the original question as the following:
-
-* _**What experiences do I want to have over the next 5 years?**_
-
-This helps me decide what next steps I might want to take in my career. If there are experiences I haven't yet had, I’ll gravitate towards 
-roles that might help me have them.
-
-This principle is related to "fall into the pit of success" in that both rely on positioning to succeed. Position yourself in such a way 
-where you can have those desired experiences!
 
 
 - - - -
