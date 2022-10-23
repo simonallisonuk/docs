@@ -255,18 +255,6 @@ Spend that time on learning and you won't regret it.
 
 
 - - - -
-# Principle – Use the right tool for the job
-
-Also on the subject of tools - when you are faced with a task, pick the tool that is best suited to the job, 
-rather than a tool you are currently comfortable with.
-
-Early in my career I was enamored with C++. I wanted to focus my entire career on it. I learned the ins and outs of the language, watched 
-videos on it, and practiced the language as much as possible. But I quickly realized that this language was not well suited for many 
-problems. It honestly was a difficult lesson for me, but once I learned to focus on picking toolsets based on task, it made problem solving easier.
-
-
-
-- - - -
 # Principle – Do great work, and be visible
 
 I heard a definition of success that I really like:
