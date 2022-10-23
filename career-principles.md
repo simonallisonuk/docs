@@ -1,4 +1,4 @@
-# IC Principles
+# Career Principles
 
 I've been an Individual Contributor (IC) for most of my career in software development. 
 An IC is an employee who does not have direct reports and does not perform people management tasks. 
