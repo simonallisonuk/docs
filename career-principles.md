@@ -173,6 +173,35 @@ the plan. Writing a document and letting folks comment on it is a great way to g
 I urge everyone to create a few documents on topics they care about. You might be surprised at how useful these documents become.
 
 
+- - - -
+# Principle – Know your tools
+
+Software development requires a lot of tools - IDEs, programming languages, version control, graphical tools, etc. 
+All of these tools assist you in solving your scenarios and problems. 
+
+Here's the trick though - if you don't know how your tools work, you'll spend too much time fighting
+with the tools themselves, instead of solving your customer problems. That's why I like to spend a small % of my time 
+dedicated to learning. 
+
+When do I decide to spend time learning? In some cases, the team or organization
+has mandated use of a tool (build system, programming language, etc.), and I have no choice but to learn it. In other cases, 
+I'll be using a toolset on my own, and I'll notice that it has a downside that may be fixed by migrating to something else. 
+In either case I'll pause what I'm working on and shift my focus to learning.
+
+Here are a few examples:
+
+* **Power BI** - prior to learning Power BI, I had been building reports at work using things like JS and D3, and hosting them on my own server. 
+The analyses were going well, but I was spending too much time on things like server maintenance, authentication, and report look-and-feel. 
+I just wanted to focus on the analyses instead. I had heard that Power BI was getting popular within the company and I decided to give it a try. 
+I'm glad I did - since then I've been using it successfully for our team's analyses.
+* **Affinity Designer** - I like to make comics. For a while I used a raster-based tool for drawing the Threddy comics. The problem, though, was
+that if I wanted to scale the characters larger or smaller, the raster drawings wouldn't scale well and I would need to redraw them. I had heard 
+that a vector-based approach might fix this. During a long flight to China I decided to practice using Affinity Designer, which is a popular 
+vector drawing tool. By the end of the flight I had learned enough about the software to be able to use it for the comics. And ever since 
+then I've been using _only_ Affinity Designer for Threddy comics.
+
+If you find yourself thinking "if I learn tool XYZ it will be good for my project or career", you're probably right.
+Spend that time on learning and you won't regret it.
 
 
 
@@ -219,50 +248,6 @@ Use this sparingly and wisely. Weigh the risks/rewards, and if it makes sense to
 
 
 
-- - - -
-# Principle – Know your tools
-
-Software development requires a lot of tools - IDEs, programming languages, version control, graphical tools, etc. 
-All of these tools assist you in solving your scenarios and problems. 
-
-Here's the trick though - if you don't know how your tools work, you'll spend too much time fighting
-with the tools themselves, instead of solving your customer problems. That's why I like to spend a small % of my time 
-dedicated to learning. 
-
-When do I decide to spend time learning? In some cases, the team or organization
-has mandated use of a tool (build system, programming language, etc.), and I have no choice but to learn it. In other cases, 
-I'll be using a toolset on my own, and I'll notice that it has a downside that may be fixed by migrating to something else. 
-In either case I'll pause what I'm working on and shift my focus to learning.
-
-Here are a few examples:
-
-* **Power BI** - prior to learning Power BI, I had been building reports at work using things like JS and D3, and hosting them on my own server. 
-The analyses were going well, but I was spending too much time on things like server maintenance, authentication, and report look-and-feel. 
-I just wanted to focus on the analyses instead. I had heard that Power BI was getting popular within the company and I decided to give it a try. 
-I'm glad I did - since then I've been using it successfully for our team's analyses.
-* **Affinity Designer** - I like to make comics. For a while I used a raster-based tool for drawing the Threddy comics. The problem, though, was
-that if I wanted to scale the characters larger or smaller, the raster drawings wouldn't scale well and I would need to redraw them. I had heard 
-that a vector-based approach might fix this. During a long flight to China I decided to practice using Affinity Designer, which is a popular 
-vector drawing tool. By the end of the flight I had learned enough about the software to be able to use it for the comics. And ever since 
-then I've been using _only_ Affinity Designer for Threddy comics.
-
-If you find yourself thinking "if I learn tool XYZ it will be good for my project or career", you're probably right.
-Spend that time on learning and you won't regret it.
-
-
-
-- - - -
-# Principle – Do great work, and be visible
-
-I heard a definition of success that I really like:
-
-* _**Success is a combination of two things: doing great work, and being visible.**_
-
-Doing great work seems like the obvious part. If you are good at what you do, and you provide value to the business, I would consider 
-that "succeeding". Whatever you choose to do with your career, be awesome at it.
-
-Being visible is maybe the less-obvious part. If you are doing great work, but nobody knows about it, will you be rewarded for 
-that success? Are you really working on the most impactful things? It’s important that folks know about your successes.
 
 
 
