@@ -3,7 +3,7 @@
 I've been an Individual Contributor (IC) for most of my career in software development. 
 An IC is an employee who does not have direct reports and does not perform people management tasks. 
 This document describes some high-level principles that I've followed in my career as an IC. If you have any 
-questions, please email me (hello@threddy.dev) or find me on Twitter (https://twitter.com/ThreddyRex). Initially written Mar 2022. Updated May 2022, Jun 2022.
+questions, please email me (hello@threddy.dev) or find me on Twitter (https://twitter.com/ThreddyRex). Initially written Mar 2022. Updated May 2022, Jun 2022, Oct 2022.
 
 ----
 # Caveats
